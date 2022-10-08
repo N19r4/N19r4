@@ -2,6 +2,7 @@
 </br>
 </br> 👀 I’m interested in front-end and indie game making
 </br> 📚 I’m currently learning Vue.js
+</br> 🎮 I was a manual tester of the game Abstrakton II
 </br> 🏆 My goal is to create awesome websites and some logic games
  
 💻 Some facts about me:
