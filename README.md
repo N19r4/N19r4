@@ -16,10 +16,12 @@
 💭 My dream is to become a Vue.js expert (and RPG Game Master)
 
 🔍 My projects:
+- https://bestgliwice.pl/
 - https://n19r4.github.io/IT-Responsible-App/
 - https://n19r4.github.io/Topic-Responsible-App/
 - https://n19r4.github.io/Stargazing/
 - https://n19r4.github.io/Nowa-Nadzieja/
+- https://www.figma.com/file/YeCZEyo2Vg2kaJNH38VewG/Konkurs-matematyczny?node-id=0%3A1 (only design for now)
 
 <!---
 N19r4/N19r4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
