@@ -6,7 +6,7 @@
 </br> 🏆 My goal is to create awesome websites and some logic games
  
 💻 Some facts about me:
-- i am a member and IT Responsible in BEST Gliwice
+- i was an IT Responsible in BEST Gliwice
 - i love board games and indie games
 -  my fav RPG system is Call of Cthulhu
 - i won ITGrA Competition in 2019
