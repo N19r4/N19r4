@@ -11,7 +11,7 @@
 -  my fav RPG system is Call of Cthulhu
 - i won ITGrA Competition in 2019
 - i'm the biggest Sherlock fan
-- i think, Tarta Mountains is the most beautiful place in Poland
+- i think, Tatra Mountains is the most beautiful place in Poland
 
 💭 My dream is to become a Vue.js expert (and RPG Game Master)
 
